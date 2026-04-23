@@ -43,19 +43,16 @@ def generate_readme(conferences):
 
     for cat in sorted(categories):
         lines.append(f"## {cat}\n")
-        lines.append("| Conference | Dates | City | Country | Submission Deadline | Registration Deadline |")
-        lines.append("|-----------|-------|------|---------|--------------------|-----------------------|")
+        lines.append("| Conference | Dates | Location | Deadlines (submission, registration) |")
+        lines.append("|-----------|-------|----------|--------------------------------------|")
         for c in categories[cat]:
             url = c.get("url", "")
             name = f"[{c['name']}]({url})" if url and url != "none" else c["name"]
             dates = f"{fmt_date(c.get('start_date'))} – {fmt_date(c.get('end_date'))}"
-            city = c.get("city", "") or ""
-            city = "—" if city == "none" or not city else city
-            country = c.get("country", "") or ""
-            country = "—" if country == "none" or not country else country
+            location = fmt_location(c)
             sub = fmt_date(c.get("submission_deadline"))
             reg = fmt_date(c.get("registration_deadline"))
-            lines.append(f"| {name} | {dates} | {city} | {country} | {sub} | {reg} |")
+            lines.append(f"| {name} | {dates} | {location} | {sub}, {reg} |")
         lines.append("")
 
     lines += [

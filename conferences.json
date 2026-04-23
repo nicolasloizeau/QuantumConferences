@@ -4,7 +4,7 @@
     "url": "https://www.girton.cam.ac.uk/events/foundations-quantum-technologies",
     "start_date": "2026-09-15",
     "end_date": "2026-09-18",
-    "registration_deadline": "none",
+    "registration_deadline": "2026-07-04",
     "submission_deadline": "2026-05-04",
     "city": "Cambridge",
     "country": "UK",
@@ -21,7 +21,7 @@
     "city": "Rochester",
     "country": "USA",
     "keywords": "quantum thermodynamics, decoherence, open quantum systems",
-    "category": "Quantum Thermodynamics"
+    "category": "Quantum Information"
   },
   {
     "name": "Young Quantum Information Scientists (YQIS)",
@@ -45,7 +45,7 @@
     "city": "Vienna",
     "country": "Austria",
     "keywords": "quantum, summer school, VCQ, quantA",
-    "category": "Summer School"
+    "category": "Quantum Computing"
   },
   {
     "name": "Summer School on Quantum Algorithms and Quantum Error Correction",

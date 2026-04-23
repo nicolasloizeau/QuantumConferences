@@ -6,7 +6,7 @@ from datetime import date
 ROOT = Path(__file__).parent
 DATA_FILE = ROOT / "conferences.json"
 README_FILE = ROOT / "README.md"
-WEBSITE_DIR = ROOT / "website"
+WEBSITE_DIR = ROOT / "docs"
 
 
 def fmt_date(d):

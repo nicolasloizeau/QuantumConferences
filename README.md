@@ -19,7 +19,7 @@ A curated list of quantum computing and quantum information conferences.
 | Conference | Dates | Location | Deadlines (submission, registration) |
 |-----------|-------|----------|--------------------------------------|
 | [QEC 2026 - International Conference on Quantum Error Correction](https://qec-conference.org/2026/) | Jun 07, 2026 – Jun 12, 2026 | Santa Barbara, USA | —, — |
-| [TartanQEC Workshop](https://qec.codes/tartan2026/index.html) | Jun 24, 2026 – Jun 26, 2026 | — | —, — |
+| [TartanQEC Workshop](https://qec.codes/tartan2026/index.html) | Jun 24, 2026 – Jun 26, 2026 | Edinburgh, UK | —, — |
 | [Summer School on Quantum Algorithms and Quantum Error Correction](https://www.cwi.nl/en/events/research-semester-programmes/summer-school-on-qa-and-qec/) | Aug 24, 2026 – Aug 28, 2026 | Amsterdam, Netherlands | Jul 31, 2026, — |
 
 ## Quantum Foundations
@@ -36,12 +36,6 @@ A curated list of quantum computing and quantum information conferences.
 |-----------|-------|----------|--------------------------------------|
 | [Quantum Thermodynamics and Decoherence Symposium](https://qtd-hub.umd.edu/event/symposium-2026/) | Jun 03, 2026 – Jun 04, 2026 | Rochester, USA | —, — |
 | [Young Quantum Information Scientists (YQIS)](https://www.yqisconference.org/) | Aug 24, 2026 – Aug 28, 2026 | Vienna, Austria | Apr 30, 2026, — |
-
-## Quantum Many-Body
-
-| Conference | Dates | Location | Deadlines (submission, registration) |
-|-----------|-------|----------|--------------------------------------|
-| [Open Quantum Systems - from Quantum Information to Condensed Matter](https://quantum.technology/conf/index.html) | Nov 16, 2026 – Nov 20, 2026 | Singapore, Singapore | —, — |
 
 ## Quantum Simulation
 

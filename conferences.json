@@ -66,8 +66,8 @@
     "end_date": "2026-06-26",
     "registration_deadline": "none",
     "submission_deadline": "none",
-    "city": "none",
-    "country": "none",
+    "city": "Edinburgh",
+    "country": "UK",
     "keywords": "quantum error correction, QEC, workshop",
     "category": "Quantum Error Correction"
   },
@@ -142,17 +142,5 @@
     "country": "USA",
     "keywords": "correlated electrons, quantum many-body, condensed matter, quantum materials",
     "category": "Condensed Matter"
-  },
-  {
-    "name": "Open Quantum Systems - from Quantum Information to Condensed Matter",
-    "url": "https://quantum.technology/conf/index.html",
-    "start_date": "2026-11-16",
-    "end_date": "2026-11-20",
-    "registration_deadline": "none",
-    "submission_deadline": "none",
-    "city": "Singapore",
-    "country": "Singapore",
-    "keywords": "open quantum systems, quantum information, condensed matter, dissipative dynamics",
-    "category": "Quantum Many-Body"
   }
 ]

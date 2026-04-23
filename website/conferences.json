@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Foundations of Quantum Technologies",
+    "url": "https://www.girton.cam.ac.uk/events/foundations-quantum-technologies",
+    "start_date": "2026-09-15",
+    "end_date": "2026-09-18",
+    "registration_deadline": "none",
+    "submission_deadline": "2026-05-04",
+    "city": "Cambridge",
+    "country": "UK",
+    "keywords": "quantum technologies, foundations, quantum",
+    "category": "Quantum Foundations"
+  },
+  {
+    "name": "Quantum Thermodynamics and Decoherence Symposium",
+    "url": "https://qtd-hub.umd.edu/event/symposium-2026/",
+    "start_date": "2026-06-03",
+    "end_date": "2026-06-04",
+    "registration_deadline": "none",
+    "submission_deadline": "none",
+    "city": "Rochester",
+    "country": "USA",
+    "keywords": "quantum thermodynamics, decoherence, open quantum systems",
+    "category": "Quantum Thermodynamics"
+  },
+  {
+    "name": "Young Quantum Information Scientists (YQIS)",
+    "url": "https://www.yqisconference.org/",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-28",
+    "registration_deadline": "none",
+    "submission_deadline": "2026-04-30",
+    "city": "Vienna",
+    "country": "Austria",
+    "keywords": "quantum information, early career, quantum science",
+    "category": "Quantum Information"
+  },
+  {
+    "name": "VCQ & quantA Summer School",
+    "url": "https://vcq-quantum.at/vcq-quanta-summer-school-2026/",
+    "start_date": "2026-09-14",
+    "end_date": "2026-09-18",
+    "registration_deadline": "none",
+    "submission_deadline": "none",
+    "city": "Vienna",
+    "country": "Austria",
+    "keywords": "quantum, summer school, VCQ, quantA",
+    "category": "Summer School"
+  },
+  {
+    "name": "Summer School on Quantum Algorithms and Quantum Error Correction",
+    "url": "https://www.cwi.nl/en/events/research-semester-programmes/summer-school-on-qa-and-qec/",
+    "start_date": "2026-08-24",
+    "end_date": "2026-08-28",
+    "registration_deadline": "none",
+    "submission_deadline": "2026-07-31",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "keywords": "quantum algorithms, quantum error correction, QEC",
+    "category": "Quantum Error Correction"
+  },
+  {
+    "name": "TartanQEC Workshop",
+    "url": "https://qec.codes/tartan2026/index.html",
+    "start_date": "2026-06-24",
+    "end_date": "2026-06-26",
+    "registration_deadline": "none",
+    "submission_deadline": "none",
+    "city": "none",
+    "country": "none",
+    "keywords": "quantum error correction, QEC, workshop",
+    "category": "Quantum Error Correction"
+  }
+]

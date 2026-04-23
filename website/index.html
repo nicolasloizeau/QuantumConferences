@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quantum Conferences</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Quantum Conferences</h1>
+    <p>A curated list of quantum computing and quantum information conferences.</p>
+  </header>
+
+  <div class="controls">
+    <input type="text" id="search" placeholder="Search conferences…" autocomplete="off">
+    <select id="category-filter">
+      <option value="">All categories</option>
+    </select>
+    <select id="country-filter">
+      <option value="">All countries</option>
+    </select>
+  </div>
+
+  <main id="content"></main>
+
+  <footer>
+    <p>
+      Want to add a conference?
+      <a href="https://github.com/nicolasloizeau/QuantumConferences" target="_blank">Open a pull request</a>
+      and edit <code>conferences.json</code>.
+    </p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

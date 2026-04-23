@@ -37,7 +37,7 @@ def generate_readme(conferences):
         categories[cat].sort(key=lambda c: c.get("start_date", ""))
 
     lines = [
-        "# Quantum Conferences\n",
+        "# [Quantum Conferences](https://nicolasloizeau.github.io/QuantumConferences/)\n",
         "A curated list of quantum computing and quantum information conferences.\n",
     ]
 

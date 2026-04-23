@@ -1,37 +1,61 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Quantum Conferences</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <h1>Quantum Conferences</h1>
-    <p>A curated list of quantum computing and quantum information conferences.</p>
-  </header>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Quantum Conferences</title>
+        <link rel="stylesheet" href="style.css" />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css"
+        />
+    </head>
+    <body>
+        <a
+            class="github-fork-ribbon right-top"
+            href="https://github.com/nicolasloizeau/QuantumConferences"
+            data-ribbon="Edit on GitHub"
+            title="Edit on GitHub"
+            >Edit on GitHub</a
+        >
 
-  <div class="controls">
-    <input type="text" id="search" placeholder="Search conferences…" autocomplete="off">
-    <select id="category-filter">
-      <option value="">All categories</option>
-    </select>
-    <select id="country-filter">
-      <option value="">All countries</option>
-    </select>
-  </div>
+        <header>
+            <h1>Quantum Conferences</h1>
+            <p>
+                A curated list of quantum [computing, information, many body,
+                foundations] conferences.
+            </p>
+        </header>
 
-  <main id="content"></main>
+        <div class="controls">
+            <input
+                type="text"
+                id="search"
+                placeholder="Search conferences…"
+                autocomplete="off"
+            />
+            <select id="category-filter">
+                <option value="">All categories</option>
+            </select>
+            <select id="country-filter">
+                <option value="">All countries</option>
+            </select>
+        </div>
 
-  <footer>
-    <p>
-      Want to add a conference?
-      <a href="https://github.com/nicolasloizeau/QuantumConferences" target="_blank">Open a pull request</a>
-      and edit <code>conferences.json</code>.
-    </p>
-  </footer>
+        <main id="content"></main>
 
-  <script src="script.js"></script>
-</body>
+        <footer>
+            <p>
+                Want to add a conference?
+                <a
+                    href="https://github.com/nicolasloizeau/QuantumConferences"
+                    target="_blank"
+                    >Open a pull request</a
+                >
+                and edit <code>conferences.json</code>.
+            </p>
+        </footer>
+
+        <script src="script.js"></script>
+    </body>
 </html>

@@ -70,5 +70,89 @@
     "country": "none",
     "keywords": "quantum error correction, QEC, workshop",
     "category": "Quantum Error Correction"
+  },
+  {
+    "name": "QEC 2026 - International Conference on Quantum Error Correction",
+    "url": "https://qec-conference.org/2026/",
+    "start_date": "2026-06-07",
+    "end_date": "2026-06-12",
+    "registration_deadline": "none",
+    "submission_deadline": "none",
+    "city": "Santa Barbara",
+    "country": "USA",
+    "keywords": "quantum error correction, fault tolerance, quantum codes, qLDPC",
+    "category": "Quantum Error Correction"
+  },
+  {
+    "name": "QSim 2026 - Quantum Simulation Conference Summer school",
+    "url": "https://qsimconference.org/",
+    "start_date": "2026-08-07",
+    "end_date": "2026-08-09",
+    "registration_deadline": "none",
+    "submission_deadline": "none",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "keywords": "quantum simulation, Hamiltonian engineering, many-body systems, ultracold atoms, Rydberg",
+    "category": "Quantum Simulation"
+  },
+  {
+    "name": "QSim 2026 - Quantum Simulation Conference",
+    "url": "https://qsimconference.org/",
+    "start_date": "2026-08-10",
+    "end_date": "2026-08-14",
+    "registration_deadline": "none",
+    "submission_deadline": "none",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "keywords": "quantum simulation, Hamiltonian engineering, many-body systems, ultracold atoms, Rydberg",
+    "category": "Quantum Simulation"
+  },
+  {
+    "name": "Växjö-26 (QIP26) - Quantum Information and Probability: from Foundations to Engineering",
+    "url": "https://lnu.se/en/meet-linnaeus-university/current/events/2026/conferences/qip26/",
+    "start_date": "2026-06-09",
+    "end_date": "2026-06-12",
+    "registration_deadline": "none",
+    "submission_deadline": "2026-04-25",
+    "city": "Växjö",
+    "country": "Sweden",
+    "keywords": "quantum foundations, quantum information, measurement theory, probability",
+    "category": "Quantum Foundations"
+  },
+  {
+    "name": "QPL 2026 - Quantum Physics and Logic",
+    "url": "https://qplconference.org/",
+    "start_date": "2026-08-17",
+    "end_date": "2026-08-21",
+    "registration_deadline": "none",
+    "submission_deadline": "2026-03-06",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "keywords": "quantum foundations, quantum logic, categorical quantum mechanics, quantum information",
+    "category": "Quantum Foundations"
+  },
+  {
+    "name": "Gordon Research Conference on Correlated Electron Systems / Quantum Many-Body",
+    "url": "https://www.grc.org/correlated-electron-systems-conference/2026/",
+    "start_date": "2026-06-28",
+    "end_date": "2026-07-03",
+    "registration_deadline": "2026-05-31",
+    "submission_deadline": "none",
+    "city": "Mount Holyoke",
+    "country": "USA",
+    "keywords": "correlated electrons, quantum many-body, condensed matter, quantum materials",
+    "category": "Condensed Matter"
+  },
+  {
+    "name": "Open Quantum Systems - from Quantum Information to Condensed Matter",
+    "url": "https://quantum.technology/conf/index.html",
+    "start_date": "2026-11-16",
+    "end_date": "2026-11-20",
+    "registration_deadline": "none",
+    "submission_deadline": "none",
+    "city": "Singapore",
+    "country": "Singapore",
+    "keywords": "open quantum systems, quantum information, condensed matter, dissipative dynamics",
+    "category": "Quantum Many-Body"
   }
 ]

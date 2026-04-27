@@ -143,4 +143,16 @@
     "keywords": "correlated electrons, quantum many-body, condensed matter, quantum materials",
     "category": "Condensed Matter"
   }
+  {
+  "name": "CTEQ Quantum Simulation of Strongly Correlated Quantum Matter",
+  "url": "https://sites.psu.edu/cteq/cteqss2026/",
+  "start_date": "2026-07-13",
+  "end_date": "2026-07-17",
+  "registration_deadline": "2026-05-15",
+  "submission_deadline": "none",
+  "city": "University Park, PA",
+  "country": "USA",
+  "keywords": "quantum many-body, condensed matter, quantum simulation",
+  "category": "Quantum Simulation"
+}
 ]

@@ -41,6 +41,7 @@ A curated list of quantum computing and quantum information conferences.
 
 | Conference | Dates | Location | Deadlines (submission, registration) |
 |-----------|-------|----------|--------------------------------------|
+| [CTEQ Quantum Simulation of Strongly Correlated Quantum Matter](https://sites.psu.edu/cteq/cteqss2026/) | Jul 13, 2026 – Jul 17, 2026 | University Park, PA, USA | —, May 15, 2026 |
 | [QSim 2026 - Quantum Simulation Conference Summer school](https://qsimconference.org/) | Aug 07, 2026 – Aug 09, 2026 | Amsterdam, Netherlands | —, — |
 | [QSim 2026 - Quantum Simulation Conference](https://qsimconference.org/) | Aug 10, 2026 – Aug 14, 2026 | Amsterdam, Netherlands | —, — |
 

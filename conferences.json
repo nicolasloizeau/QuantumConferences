@@ -154,5 +154,17 @@
   "country": "USA",
   "keywords": "quantum many-body, condensed matter, quantum simulation",
   "category": "Quantum Simulation"
+},
+    {
+  "name": "Many-Body Quantum Systems: Quantum Computing, Simulation, Sensing, and Emerging Platforms",
+  "url": "https://www.grc.org/quantum-science-conference/2026/",
+  "start_date": "2026-07-26",
+  "end_date": "2026-07-31",
+  "registration_deadline": "2026-06-28",
+  "submission_deadline": "none",
+  "city": "Easton, Massachusetts",
+  "country": "USA",
+  "keywords": "quantum many-body, quantum Computing, quantum simulation",
+  "category": "Quantum Computing"
 }
 ]

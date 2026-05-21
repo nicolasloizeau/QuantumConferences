@@ -202,5 +202,17 @@
   "country": "UK",
   "keywords": "quantum chemistry, electronic structure, quantum algorithms, quantum computing, quantum hardware, noise",
   "category": "Quantum Computing"
+},
+  {
+  "name": "Central European Quantum Information Processing Workshop (CEQIP 2026)",
+  "url": "https://ceqip.eu/2026",
+  "start_date": "2026-09-14",
+  "end_date": "2026-09-17",
+  "registration_deadline": "none",
+  "submission_deadline": "none",
+  "city": "Mikulov",
+  "country": "Czech Republic",
+  "keywords": "quantum information, quantum computing, mathematical quantum theory, quantum technologies",
+  "category": "Quantum Information"
 }
 ]

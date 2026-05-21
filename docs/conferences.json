@@ -190,5 +190,17 @@
   "country": "Canada",
   "keywords": "quantum compilation, circuit synthesis, quantum compilers, fault-tolerant quantum computing, circuit optimization, quantum programming languages",
   "category": "Quantum Computing"
+},
+  {
+  "name": "InQuanto Summer School on Quantum Chemistry",
+  "url": "https://www.quantinuum.com/inquanto-summer-school",
+  "start_date": "2026-09-14",
+  "end_date": "2026-09-18",
+  "registration_deadline": "2026-05-29",
+  "submission_deadline": "none",
+  "city": "Cambridge",
+  "country": "UK",
+  "keywords": "quantum chemistry, electronic structure, quantum algorithms, quantum computing, quantum hardware, noise",
+  "category": "Quantum Computing"
 }
 ]

@@ -7,6 +7,7 @@ A curated list of quantum computing and quantum information conferences.
 | Conference | Dates | Location | Deadlines (submission, registration) |
 |-----------|-------|----------|--------------------------------------|
 | [Gordon Research Conference on Correlated Electron Systems / Quantum Many-Body](https://www.grc.org/correlated-electron-systems-conference/2026/) | Jun 28, 2026 – Jul 03, 2026 | Mount Holyoke, USA | —, May 31, 2026 |
+| [Quantum Many-Body Systems Out of Equilibrium (QMBSOE26)](https://www.pks.mpg.de/qmbsoe26/) | Aug 31, 2026 – Sep 04, 2026 | Dresden, Germany | —, — |
 
 ## Quantum Computing
 

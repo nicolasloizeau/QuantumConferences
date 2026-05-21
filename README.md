@@ -33,6 +33,7 @@ A curated list of quantum computing and quantum information conferences.
 | [QPL 2026 - Quantum Physics and Logic](https://qplconference.org/) | Aug 17, 2026 – Aug 21, 2026 | Amsterdam, Netherlands | Mar 06, 2026, — |
 | [Mini-Workshop on Thermodynamics, Measurement and Classicality (TMC2026)](https://quoi-theory.at/tmc-2026) | Sep 09, 2026 – Sep 10, 2026 | Vienna, Austria | Jun 22, 2026, Jun 22, 2026 |
 | [Foundations of Quantum Technologies](https://www.girton.cam.ac.uk/events/foundations-quantum-technologies) | Sep 15, 2026 – Sep 18, 2026 | Cambridge, UK | May 04, 2026, Jul 04, 2026 |
+| [Relativity Reframed: Quantum Reference Frames and Gravity](https://events.perimeterinstitute.ca/event/2058/) | Oct 26, 2026 – Oct 30, 2026 | Waterloo, Canada | Jul 05, 2026, Oct 05, 2026 |
 
 ## Quantum Information
 

@@ -214,5 +214,17 @@
   "country": "Czech Republic",
   "keywords": "quantum information, quantum computing, mathematical quantum theory, quantum technologies",
   "category": "Quantum Information"
+},
+  {
+  "name": "Relativity Reframed: Quantum Reference Frames and Gravity",
+  "url": "https://events.perimeterinstitute.ca/event/2058/",
+  "start_date": "2026-10-26",
+  "end_date": "2026-10-30",
+  "registration_deadline": "2026-10-05",
+  "submission_deadline": "2026-07-05",
+  "city": "Waterloo",
+  "country": "Canada",
+  "keywords": "quantum reference frames, quantum gravity, quantum foundations, diffeomorphism invariance, relational observables, quantum spacetime",
+  "category": "Quantum Foundations"
 }
 ]

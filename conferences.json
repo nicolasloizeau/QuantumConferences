@@ -96,17 +96,17 @@
     "category": "Quantum Simulation"
   },
   {
-    "name": "QSim 2026 - Quantum Simulation Conference",
-    "url": "https://qsimconference.org/",
-    "start_date": "2026-08-10",
-    "end_date": "2026-08-14",
-    "registration_deadline": "none",
-    "submission_deadline": "none",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "keywords": "quantum simulation, Hamiltonian engineering, many-body systems, ultracold atoms, Rydberg",
-    "category": "Quantum Simulation"
-  },
+  "name": "QSim 2026 - Quantum Simulation Conference",
+  "url": "https://qsimconference.org/",
+  "start_date": "2026-08-10",
+  "end_date": "2026-08-14",
+  "registration_deadline": "2026-07-17",
+  "submission_deadline": "2026-04-12",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "keywords": "quantum simulation, Hamiltonian engineering, many-body systems, ultracold atoms, Rydberg",
+  "category": "Quantum Simulation"
+},
   {
     "name": "Växjö-26 (QIP26) - Quantum Information and Probability: from Foundations to Engineering",
     "url": "https://lnu.se/en/meet-linnaeus-university/current/events/2026/conferences/qip26/",

@@ -72,17 +72,17 @@
     "category": "Quantum Error Correction"
   },
   {
-    "name": "QEC 2026 - International Conference on Quantum Error Correction",
-    "url": "https://qec-conference.org/2026/",
-    "start_date": "2026-06-07",
-    "end_date": "2026-06-12",
-    "registration_deadline": "none",
-    "submission_deadline": "none",
-    "city": "Santa Barbara",
-    "country": "USA",
-    "keywords": "quantum error correction, fault tolerance, quantum codes, qLDPC",
-    "category": "Quantum Error Correction"
-  },
+  "name": "QEC 2026 - International Conference on Quantum Error Correction",
+  "url": "https://qec-conference.org/2026/",
+  "start_date": "2026-06-07",
+  "end_date": "2026-06-12",
+  "registration_deadline": "none",
+  "submission_deadline": "2026-03-06",
+  "city": "Santa Barbara",
+  "country": "USA",
+  "keywords": "quantum error correction, fault tolerance, quantum codes, qLDPC",
+  "category": "Quantum Error Correction"
+},
   {
     "name": "QSim 2026 - Quantum Simulation Conference Summer school",
     "url": "https://qsimconference.org/",

@@ -41,7 +41,7 @@ A curated list of quantum computing and quantum information conferences.
 | Conference | Dates | Location | Deadlines (submission, registration) |
 |-----------|-------|----------|--------------------------------------|
 | [Quantum Thermodynamics and Decoherence Symposium](https://qtd-hub.umd.edu/event/symposium-2026/) | Jun 03, 2026 – Jun 04, 2026 | Rochester, USA | —, — |
-| [Young Quantum Information Scientists (YQIS)](https://www.yqisconference.org/) | Aug 24, 2026 – Aug 28, 2026 | Vienna, Austria | Apr 30, 2026, — |
+| [Young Quantum Information Scientists (YQIS)](https://quoi-theory.at/yqis-2026) | Aug 24, 2026 – Aug 28, 2026 | Vienna, Austria | Apr 30, 2026, May 31, 2026 |
 | [Central European Quantum Information Processing Workshop (CEQIP 2026)](https://ceqip.eu/2026) | Sep 14, 2026 – Sep 17, 2026 | Mikulov, Czech Republic | —, — |
 
 ## Quantum Simulation

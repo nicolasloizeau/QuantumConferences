@@ -24,17 +24,17 @@
     "category": "Quantum Information"
   },
   {
-    "name": "Young Quantum Information Scientists (YQIS)",
-    "url": "https://www.yqisconference.org/",
-    "start_date": "2026-08-24",
-    "end_date": "2026-08-28",
-    "registration_deadline": "none",
-    "submission_deadline": "2026-04-30",
-    "city": "Vienna",
-    "country": "Austria",
-    "keywords": "quantum information, early career, quantum science",
-    "category": "Quantum Information"
-  },
+  "name": "Young Quantum Information Scientists (YQIS)",
+  "url": "https://quoi-theory.at/yqis-2026",
+  "start_date": "2026-08-24",
+  "end_date": "2026-08-28",
+  "registration_deadline": "2026-05-31",
+  "submission_deadline": "2026-04-30",
+  "city": "Vienna",
+  "country": "Austria",
+  "keywords": "quantum information, early career, quantum science",
+  "category": "Quantum Information"
+},
   {
     "name": "VCQ & quantA Summer School",
     "url": "https://vcq-quantum.at/vcq-quanta-summer-school-2026/",

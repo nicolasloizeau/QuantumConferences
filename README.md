@@ -22,7 +22,7 @@ A curated list of quantum computing and quantum information conferences.
 
 | Conference | Dates | Location | Deadlines (submission, registration) |
 |-----------|-------|----------|--------------------------------------|
-| [QEC 2026 - International Conference on Quantum Error Correction](https://qec-conference.org/2026/) | Jun 07, 2026 – Jun 12, 2026 | Santa Barbara, USA | —, — |
+| [QEC 2026 - International Conference on Quantum Error Correction](https://qec-conference.org/2026/) | Jun 07, 2026 – Jun 12, 2026 | Santa Barbara, USA | Mar 06, 2026, — |
 | [TartanQEC Workshop](https://qec.codes/tartan2026/index.html) | Jun 24, 2026 – Jun 26, 2026 | Edinburgh, UK | May 08, 2026, Jun 01, 2026 |
 | [Summer School on Quantum Algorithms and Quantum Error Correction](https://www.cwi.nl/en/events/research-semester-programmes/summer-school-on-qa-and-qec/) | Aug 24, 2026 – Aug 28, 2026 | Amsterdam, Netherlands | Jul 31, 2026, — |
 

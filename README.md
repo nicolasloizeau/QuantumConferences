@@ -29,6 +29,7 @@ A curated list of quantum computing and quantum information conferences.
 |-----------|-------|----------|--------------------------------------|
 | [Växjö-26 (QIP26) - Quantum Information and Probability: from Foundations to Engineering](https://lnu.se/en/meet-linnaeus-university/current/events/2026/conferences/qip26/) | Jun 09, 2026 – Jun 12, 2026 | Växjö, Sweden | Apr 25, 2026, — |
 | [QPL 2026 - Quantum Physics and Logic](https://qplconference.org/) | Aug 17, 2026 – Aug 21, 2026 | Amsterdam, Netherlands | Mar 06, 2026, — |
+| [Mini-Workshop on Thermodynamics, Measurement and Classicality (TMC2026)](https://quoi-theory.at/tmc-2026) | Sep 09, 2026 – Sep 10, 2026 | Vienna, Austria | Jun 22, 2026, Jun 22, 2026 |
 | [Foundations of Quantum Technologies](https://www.girton.cam.ac.uk/events/foundations-quantum-technologies) | Sep 15, 2026 – Sep 18, 2026 | Cambridge, UK | May 04, 2026, Jul 04, 2026 |
 
 ## Quantum Information

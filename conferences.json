@@ -226,5 +226,17 @@
   "country": "Canada",
   "keywords": "quantum reference frames, quantum gravity, quantum foundations, diffeomorphism invariance, relational observables, quantum spacetime",
   "category": "Quantum Foundations"
+},
+  {
+  "name": "Quantum Many-Body Systems Out of Equilibrium (QMBSOE26)",
+  "url": "https://www.pks.mpg.de/qmbsoe26/",
+  "start_date": "2026-08-31",
+  "end_date": "2026-09-04",
+  "registration_deadline": "none",
+  "submission_deadline": "none",
+  "city": "Dresden",
+  "country": "Germany",
+  "keywords": "quantum many-body, thermalization, ergodicity breaking, many-body localization, Floquet, random matrix theory, nonequilibrium, quantum scars",
+  "category": "Condensed Matter"
 }
 ]

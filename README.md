@@ -14,6 +14,7 @@ A curated list of quantum computing and quantum information conferences.
 |-----------|-------|----------|--------------------------------------|
 | [Many-Body Quantum Systems: Quantum Computing, Simulation, Sensing, and Emerging Platforms](https://www.grc.org/quantum-science-conference/2026/) | Jul 26, 2026 – Jul 31, 2026 | Easton, Massachusetts, USA | —, Jun 28, 2026 |
 | [VCQ & quantA Summer School](https://vcq-quantum.at/vcq-quanta-summer-school-2026/) | Sep 14, 2026 – Sep 18, 2026 | Vienna, Austria | —, — |
+| [International Workshop on Quantum Compilation (IWQC 2026)](https://quantum-compilers.github.io/iwqc2026/) | Sep 19, 2026 – Sep 20, 2026 | Toronto, Canada | Jul 10, 2026, Aug 28, 2026 |
 
 ## Quantum Error Correction
 

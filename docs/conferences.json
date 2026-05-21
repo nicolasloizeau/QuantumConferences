@@ -178,5 +178,17 @@
   "country": "Austria",
   "keywords": "quantum foundations, thermodynamics, quantum measurements, entropy, classicality, information broadcasting",
   "category": "Quantum Foundations"
+},
+  {
+  "name": "International Workshop on Quantum Compilation (IWQC 2026)",
+  "url": "https://quantum-compilers.github.io/iwqc2026/",
+  "start_date": "2026-09-19",
+  "end_date": "2026-09-20",
+  "registration_deadline": "2026-08-28",
+  "submission_deadline": "2026-07-10",
+  "city": "Toronto",
+  "country": "Canada",
+  "keywords": "quantum compilation, circuit synthesis, quantum compilers, fault-tolerant quantum computing, circuit optimization, quantum programming languages",
+  "category": "Quantum Computing"
 }
 ]

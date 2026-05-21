@@ -166,5 +166,17 @@
   "country": "USA",
   "keywords": "quantum many-body, quantum Computing, quantum simulation",
   "category": "Quantum Computing"
+},
+  {
+  "name": "Mini-Workshop on Thermodynamics, Measurement and Classicality (TMC2026)",
+  "url": "https://quoi-theory.at/tmc-2026",
+  "start_date": "2026-09-09",
+  "end_date": "2026-09-10",
+  "registration_deadline": "2026-06-22",
+  "submission_deadline": "2026-06-22",
+  "city": "Vienna",
+  "country": "Austria",
+  "keywords": "quantum foundations, thermodynamics, quantum measurements, entropy, classicality, information broadcasting",
+  "category": "Quantum Foundations"
 }
 ]
